@@ -1,0 +1,14 @@
+{
+  "name": "yasminmodule",
+  "version": "1.1.5",
+  "description": "My first npm module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yasminghassani",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
